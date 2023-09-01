@@ -7,3 +7,8 @@ class Fanboy(Base):
     id = Column(Integer, primary_key =True)
     username = Column(String, unique=True)
     
+    def __repr__(self):
+        return  "\n<User "\
+        + f"id={self.id}, "\
+        + f"username={self.username}, "\
+        ">"
