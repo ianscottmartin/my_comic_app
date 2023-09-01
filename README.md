@@ -1,11 +1,13 @@
 # Phase 3 CLI Project Template
 
+MY Comic APP
+
 ## Learning Goals
 
 - Discuss the basic directory structure of a CLI.
 - Outline the first steps in building a CLI.
 
-***
+---
 
 ## Introduction
 
@@ -32,7 +34,7 @@ begin:
 > lesson. We hope that having it all in one place will help you in designing
 > and developing your project, regardless of where you're starting off.**
 
-***
+---
 
 ## Where Do I Start?
 
@@ -88,7 +90,7 @@ Your project is now version-controlled locally and online. This will allow you
 to create different versions of your project and pick up your work on a
 different machine if the need arises.
 
-***
+---
 
 ## Generating Your Pipenv
 
@@ -112,7 +114,7 @@ $ git push
 
 Now that your environment is set up, run `pipenv shell` to enter it.
 
-***
+---
 
 ## Generating Your Database
 
@@ -138,7 +140,7 @@ If you want to seed your database, now would be a great time to write out your
 `seed.py` script and run it to generate some test data. You may want to use
 Pipenv to install Faker to save you some time.
 
-***
+---
 
 ## Generating Your CLI
 
@@ -190,7 +192,7 @@ if __name__ == '__main__':
 
 ```
 
-***
+---
 
 ## Updating Your README.md
 
@@ -220,7 +222,7 @@ Screenshots and links to resources that you used throughout are also useful to
 users and collaborators, but a little more syntactically complicated. Only add
 these in if you're feeling comfortable with Markdown.
 
-***
+---
 
 ## Conclusion
 
@@ -230,7 +232,7 @@ off to a good start with your Phase 3 Project.
 
 Happy coding!
 
-***
+---
 
 ## Resources
 
